@@ -126,69 +126,68 @@ export default function DailyExecution() {
                         </div>
                     ))}
                 </div>
+
+                <Link
+                    href="/tools/standup"
+                    className="mt-4 flex items-center justify-center gap-2 w-full py-2.5 bg-slate-800 hover:bg-slate-700 text-slate-300 hover:text-white rounded-lg text-sm font-medium transition-colors border border-slate-700 hover:border-slate-600"
+                >
+                    Launch Standup Tool →
+                </Link>
             </div>
 
-            <Link
-                href="/tools/standup"
-                className="mt-4 flex items-center justify-center gap-2 w-full py-2.5 bg-slate-800 hover:bg-slate-700 text-slate-300 hover:text-white rounded-lg text-sm font-medium transition-colors border border-slate-700 hover:border-slate-600"
-            >
-                Launch Standup Tool →
-            </Link>
-        </div>
+            {/* Daily Focus Module */}
+            <div className="lg:col-span-2 bg-[#0A192F] border border-slate-800 rounded-xl overflow-hidden flex flex-col">
+                {/* Day Selector */}
+                <div className="flex border-b border-slate-800 overflow-x-auto scrollbar-hide">
+                    {Object.keys(DAILY_FOCUS).filter(d => d !== 'Saturday' && d !== 'Sunday').map((day) => (
+                        <button
+                            key={day}
+                            onClick={() => setSelectedDay(day)}
+                            className={cn(
+                                "px-6 py-4 text-sm font-medium transition-colors whitespace-nowrap",
+                                selectedDay === day
+                                    ? "text-white bg-slate-800/50 border-b-2 border-amber-500"
+                                    : "text-slate-500 hover:text-slate-300 hover:bg-slate-800/30"
+                            )}
+                        >
+                            {day}
+                        </button>
+                    ))}
+                </div>
 
-            {/* Daily Focus Module */ }
-    <div className="lg:col-span-2 bg-[#0A192F] border border-slate-800 rounded-xl overflow-hidden flex flex-col">
-        {/* Day Selector */}
-        <div className="flex border-b border-slate-800 overflow-x-auto scrollbar-hide">
-            {Object.keys(DAILY_FOCUS).filter(d => d !== 'Saturday' && d !== 'Sunday').map((day) => (
-                <button
-                    key={day}
-                    onClick={() => setSelectedDay(day)}
-                    className={cn(
-                        "px-6 py-4 text-sm font-medium transition-colors whitespace-nowrap",
-                        selectedDay === day
-                            ? "text-white bg-slate-800/50 border-b-2 border-amber-500"
-                            : "text-slate-500 hover:text-slate-300 hover:bg-slate-800/30"
-                    )}
-                >
-                    {day}
-                </button>
-            ))}
-        </div>
-
-        <div className="p-6 flex-1">
-            <AnimatePresence mode="wait">
-                <motion.div
-                    key={selectedDay}
-                    initial={{ opacity: 0, x: 10 }}
-                    animate={{ opacity: 1, x: 0 }}
-                    exit={{ opacity: 0, x: -10 }}
-                    transition={{ duration: 0.2 }}
-                >
-                    <div className="flex items-center justify-between mb-6">
-                        <div>
-                            <span className="text-xs font-bold text-slate-500 uppercase tracking-widest">{selectedDay} Priorities</span>
-                            <h2 className="text-2xl font-bold text-white mt-1">{activeFocus.theme}</h2>
-                        </div>
-                        <div className={cn("w-12 h-12 rounded-xl bg-gradient-to-br flex items-center justify-center shadow-lg", activeFocus.color)}>
-                            <Calendar className="w-6 h-6 text-white" />
-                        </div>
-                    </div>
-
-                    <div className="space-y-3">
-                        {activeFocus.tasks.map((task, idx) => (
-                            <div key={idx} className="flex items-center gap-3 p-4 bg-slate-900/50 rounded-lg border border-slate-800/50 hover:border-slate-700 transition-colors group">
-                                <div className="w-1.5 h-1.5 rounded-full bg-slate-500 group-hover:bg-amber-400 transition-colors" />
-                                <span className="text-slate-300 group-hover:text-white transition-colors">{task}</span>
-                                <ChevronRight className="w-4 h-4 text-slate-700 group-hover:text-slate-500 ml-auto" />
+                <div className="p-6 flex-1">
+                    <AnimatePresence mode="wait">
+                        <motion.div
+                            key={selectedDay}
+                            initial={{ opacity: 0, x: 10 }}
+                            animate={{ opacity: 1, x: 0 }}
+                            exit={{ opacity: 0, x: -10 }}
+                            transition={{ duration: 0.2 }}
+                        >
+                            <div className="flex items-center justify-between mb-6">
+                                <div>
+                                    <span className="text-xs font-bold text-slate-500 uppercase tracking-widest">{selectedDay} Priorities</span>
+                                    <h2 className="text-2xl font-bold text-white mt-1">{activeFocus.theme}</h2>
+                                </div>
+                                <div className={cn("w-12 h-12 rounded-xl bg-gradient-to-br flex items-center justify-center shadow-lg", activeFocus.color)}>
+                                    <Calendar className="w-6 h-6 text-white" />
+                                </div>
                             </div>
-                        ))}
-                    </div>
-                </motion.div>
-            </AnimatePresence>
-        </div>
-    </div>
 
-        </div >
+                            <div className="space-y-3">
+                                {activeFocus.tasks.map((task, idx) => (
+                                    <div key={idx} className="flex items-center gap-3 p-4 bg-slate-900/50 rounded-lg border border-slate-800/50 hover:border-slate-700 transition-colors group">
+                                        <div className="w-1.5 h-1.5 rounded-full bg-slate-500 group-hover:bg-amber-400 transition-colors" />
+                                        <span className="text-slate-300 group-hover:text-white transition-colors">{task}</span>
+                                        <ChevronRight className="w-4 h-4 text-slate-700 group-hover:text-slate-500 ml-auto" />
+                                    </div>
+                                ))}
+                            </div>
+                        </motion.div>
+                    </AnimatePresence>
+                </div>
+            </div>
+
+        </div>
     );
 }

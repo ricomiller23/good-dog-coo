@@ -2,9 +2,13 @@
 
 import { Download, FileText, FileSpreadsheet, File } from "lucide-react";
 
-category: "Spreadsheet" | "Document" | "Guide";
-size ?: string;
-toolUrl ?: string;
+interface ResourceCardProps {
+    title: string;
+    description: string;
+    filename: string;
+    category: "Spreadsheet" | "Document" | "Guide";
+    size?: string;
+    toolUrl?: string;
 }
 
 export default function ResourceCard({ title, description, filename, category, size, toolUrl }: ResourceCardProps) {

@@ -109,6 +109,7 @@ export default function FinancialHealth() {
                             </div>
                         </div>
                     </div>
+                </Link>
             </div>
         </div>
     );
