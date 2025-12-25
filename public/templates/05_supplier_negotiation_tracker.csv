@@ -1,0 +1,58 @@
+Supplier Name,Category,Current Cost,Current Terms,Annual Spend,% of COGS,Target Cost,Target Savings,Negotiation Status,Contact,Last Contact,Next Action,Priority
+Ball Corporation,Aluminum Cans - 12oz,$0.12/can,Net 30,$93600,42%,$0.10/can,$15600,Initial Outreach,Jim Foster,2026-01-05,Request volume pricing tiers,🔴 CRITICAL
+Crown Holdings,Aluminum Cans - Alternative,$0.13/can,Net 30,N/A,N/A,$0.11/can,$15600,Quote Requested,Sarah Chen,2026-01-04,Compare vs Ball pricing,🔴 CRITICAL
+ABC Flavoring Co,Flavor Concentrates,$0.10/unit,Net 15,$15500,7%,$0.08/unit,$3100,Negotiating,Mike Johnson,2026-01-06,Propose 12-month contract,🟡 HIGH
+Natural Ingredients Inc,Flavor Concentrates - Alt,$0.09/unit,Net 30,N/A,N/A,$0.08/unit,$3100,Testing Samples,Lisa Park,2026-01-03,Quality comparison test,🟡 HIGH
+Distillery Partners,Bourbon Base (spirits line),$0.38/unit,Net 45,$47500,21%,$0.30/unit,$10000,Active Negotiation,Tom Richards,2026-01-07,Leverage multi-year deal,🔴 CRITICAL
+Wine Supplier Co,Wine Base (wine line),$0.22/unit,Net 30,$27500,12%,$0.18/unit,$5000,Contract Review,Amanda White,2026-01-05,Negotiate bulk discount,🟡 HIGH
+Premium Co-Packer,Production Services,$0.12/unit,50% upfront,$18600,8%,$0.09/unit,$4650,Performance Review,David Lopez,2026-01-08,Discuss batch size optimization,🔴 CRITICAL
+Label Print Co,Labels & Packaging,$0.05/unit,Net 15,$7750,3%,$0.04/unit,$1550,Satisfied,Jennifer Kim,2025-12-28,Maintain relationship,🟢 LOW
+Shrink Sleeve Co,Alternative Packaging,$0.04/unit,Net 30,N/A,N/A,$0.04/unit,$1550,Exploring,Robert Taylor,2026-01-04,Request samples and pricing,🟡 HIGH
+Logistics Partners,Freight & Shipping,$0.08/unit,Net 30,$12400,5%,$0.06/unit,$3100,RFP Out,Carlos Martinez,2026-01-06,Compare 3 freight quotes,🟡 HIGH
+
+NEGOTIATION TACTICS BY PRIORITY:
+
+🔴 CRITICAL (Aluminum Cans - 42% of COGS):
+Strategy: Multi-source to create competition
+- Ball: "Crown offered $0.11, can you match $0.10?"
+- Crown: "Ball is incumbent but we're open to switch for better terms"
+- Alternative: Explore brite cans + shrink sleeves (lower MOQ, faster turnaround)
+Target: 15-20% cost reduction
+Timeline: 2 weeks
+
+🔴 CRITICAL (Bourbon Base - 21% of COGS):
+Strategy: Volume commitment + payment terms
+- Current: $0.38/unit at Net 45
+- Proposal: $0.30/unit if commit to 12-month volume + Net 60 terms
+- Leverage: "Wine line launching, could source from you too"
+Target: 21% cost reduction
+Timeline: 3 weeks
+
+🔴 CRITICAL (Co-Packer - 8% of COGS):
+Strategy: Batch size optimization + backup co-packer pressure
+- Current: Small batches at $0.12/unit
+- Proposal: Larger batches (2x size) for $0.09/unit
+- Leverage: "Evaluating backup co-packer for risk mitigation"
+Target: 25% cost reduction
+Timeline: 2 weeks
+
+🟡 HIGH (Flavoring - 7% of COGS):
+Strategy: Long-term contract + quality equivalence test
+- Test ABC vs Natural Ingredients blind taste test
+- 12-month contract for volume discount
+Target: 20% cost reduction
+Timeline: 4 weeks
+
+WEEKLY NEGOTIATION SCHEDULE:
+Monday: Aluminum can suppliers (2 calls)
+Tuesday: Spirits/wine base suppliers (2 calls)
+Wednesday: Co-packer performance review
+Thursday: Secondary suppliers (flavoring, packaging)
+Friday: Review progress and adjust tactics
+
+TOTAL TARGET SAVINGS:
+Current Monthly COGS: $31272
+Target Monthly COGS: $18634
+Monthly Savings: $12638
+Annual Savings: $151656
+Gross Margin Improvement: 17.6% → 50.9%

@@ -1,0 +1,33 @@
+Lender Name,Contact Name,Phone,Email,Loan Amount,Interest Rate,Term (Months),Collateral Req,Personal Guarantee,Initial Contact Date,Application Submitted,Term Sheet Received,Status,Notes,Next Action
+InvestBev Capital,Sarah Johnson,555-0123,sjohnson@investbev.com,$500000,10%,12,Inventory + AR,Yes,2026-01-02,2026-01-08,2026-01-15,Term Sheet,Best terms so far,Review with attorney
+First Beverage Group,Mike Chen,555-0456,mchen@firstbev.com,$500000,12%,12,All assets,Yes,2026-01-02,2026-01-09,,Application Review,Slower process,Follow up 1/12
+Bridge Marketplace,Lisa Rodriguez,555-0789,lrodriguez@bridgemp.com,$500000,11%,9,Inventory,Yes,2026-01-03,2026-01-10,,Initial Review,Quick turnaround,Await feedback
+QuickBridge Lending,Tom Anderson,555-0234,tanderson@quickbridge.com,$400000,9%,12,Inventory,No,2026-01-03,2026-01-11,,Underwriting,Lower amount but better terms,Call scheduled 1/14
+Crestline Capital,Jennifer Wu,555-0567,jwu@crestline.com,$500000,13%,6,All assets + equity,Yes,2026-01-04,,,Initial Outreach,High rate - backup option,Submit app if others fall through
+Beverage Finance Co,Robert Taylor,555-0890,rtaylor@bevfinance.com,$500000,11.5%,12,Inventory + AR,Yes,2026-01-04,,,Inquiry,Requested financials,Send package 1/8
+FoodBev Capital Partners,Amanda Lee,555-0345,alee@foodbevcap.com,$600000,10.5%,18,Strategic investment,Maybe,2026-01-05,,,Early Discussion,Interested in equity stake,Schedule deeper conversation
+Regional Bank - Business,David Kim,555-0678,dkim@regionalbank.com,$500000,8%,24,All assets,Yes,2026-01-05,,,Traditional Banking,Slowest but cheapest,Backup if bridge fails
+Spirits Industry Fund,Carlos Martinez,555-0901,cmartinez@spiritsfund.com,$500000,12.5%,12,Revenue share,No,2026-01-06,,,Exploring,Unique structure - rev share,Analyze terms carefully
+Angel Investor - Private,John Smith (referral),555-0112,jsmith@email.com,$250000,Convertible,12,Convertible note,No,2026-01-06,,,Warm Intro,Friend of founder,Coffee meeting 1/10
+
+LENDER COMPARISON SUMMARY:
+Best Rate: Regional Bank (8%) - but slowest process
+Best Terms: QuickBridge (9%, no personal guarantee) - but lower amount
+Fastest: Bridge Marketplace (11%, 30-day close)
+Most Capital: FoodBev Capital ($600k) - but equity dilution
+Recommended: InvestBev Capital (10%, 45-day close, favorable covenants)
+
+TIMELINE TRACKING:
+Week 1-2: Outreach to 10+ lenders ✓
+Week 3: Submit applications to top 5 ✓
+Week 4: Receive 3+ term sheets ← WE ARE HERE
+Week 5: Negotiate and select winner
+Week 6: Due diligence and legal
+Week 7-8: Close and receive funds
+
+RED FLAGS TO WATCH:
+- Lenders requesting >15% interest
+- Equity requirements (dilution before Series A)
+- Excessive fees (>3% origination)
+- Revenue-based repayment (kills cash flow)
+- Overly restrictive covenants

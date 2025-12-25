@@ -1,0 +1,97 @@
+Production Week,Start Date,Co-Packer,SKU,Batch Size (Cases),Cans Ordered,Flavoring Ordered,Alcohol Base Ordered,Production Status,Quality Control,Estimated Completion,Actual Completion,Issues/Notes
+Week 1,2026-01-06,Premium Co-Packer,Cucumber Lime,2000,48000,500 lbs,1200 gal,Scheduled,Pending,2026-01-10,,Aluminum cans delayed - monitoring
+Week 1,2026-01-06,Premium Co-Packer,Ginger Orange,1500,36000,375 lbs,900 gal,Scheduled,Pending,2026-01-10,,
+Week 2,2026-01-13,Premium Co-Packer,Lemon Elderflower,1800,43200,450 lbs,1080 gal,Planning,Not Started,2026-01-17,,Need to confirm flavoring inventory
+Week 2,2026-01-13,Premium Co-Packer,Bourbon Cherry,1200,28800,300 lbs,720 gal,Planning,Not Started,2026-01-17,,
+Week 3,2026-01-20,Premium Co-Packer,Cucumber Lime,2200,52800,550 lbs,1320 gal,Planning,Not Started,2026-01-24,,Increased batch size for efficiency
+Week 3,2026-01-20,Backup Co-Packer,Ginger Orange,1000,24000,250 lbs,600 gal,Exploring,Not Started,2026-01-24,,Testing backup co-packer capacity
+Week 4,2026-01-27,Premium Co-Packer,All SKUs Mix,2500,60000,625 lbs,1500 gal,Planning,Not Started,2026-01-31,,Multi-SKU run for efficiency
+Week 5,2026-02-03,Premium Co-Packer,Wine Line TEST,500,12000,125 lbs,300 gal wine,Planning,Not Started,2026-02-07,,WINE LINE TEST BATCH - Q2 launch prep
+
+COMPONENT INVENTORY STATUS:
+
+ALUMINUM CANS (12oz):
+Current Inventory: 85000 cans
+On Order: 150000 cans (ETA: 1/15)
+Lead Time: 6-8 weeks
+Safety Stock Target: 100000 cans (2 weeks production)
+Status: ⚠️ YELLOW - Monitor delivery closely
+Supplier: Ball Corporation (primary), Crown Holdings (backup)
+Action: Secure Q1 supply commitment by 1/12
+
+FLAVORING CONCENTRATES:
+Cucumber Lime: 800 lbs (8 weeks supply) ✓
+Lemon Elderflower: 450 lbs (5 weeks supply) ⚠️
+Ginger Orange: 600 lbs (7 weeks supply) ✓
+Bourbon Cherry: 350 lbs (6 weeks supply) ✓
+Status: 🟡 ADEQUATE - Reorder Elderflower
+Supplier: ABC Flavoring Co
+Action: Place reorder for Elderflower this week
+
+ALCOHOL BASE:
+Bourbon (spirits line): 5000 gal (6 weeks supply) ✓
+Wine base (wine line): 1000 gal (TEST only) ✓
+Status: 🟢 GOOD
+Supplier: Distillery Partners (bourbon), Wine Supplier Co (wine)
+Action: Lock in Q1 pricing for bourbon
+
+QUALITY CONTROL CHECKLIST (Every Batch):
+□ Pre-production meeting with co-packer
+□ Raw material inspection (cans, flavoring, alcohol)
+□ In-process ABV testing (target: 5.0% ±0.2%)
+□ Carbonation testing (target: 3.8-4.0 volumes CO2)
+□ Flavor profile verification (taste panel)
+□ Packaging inspection (labels, seams, fill level)
+□ Final ABV verification (TTB compliance)
+□ Microbiological testing (if required)
+□ Batch release approval (COO or QC Manager)
+
+PRODUCTION EFFICIENCY METRICS:
+
+Current State:
+- Average Batch Size: 1500 cases
+- Setup Time: 2 hours per batch
+- Run Time: 6 hours per 1500 cases
+- Total Time: 8 hours per batch
+- Cost per Case: $0.12 (co-packing fee only)
+
+Target State (Month 3):
+- Average Batch Size: 2500 cases
+- Setup Time: 2 hours per batch (same)
+- Run Time: 9 hours per 2500 cases
+- Total Time: 11 hours per batch
+- Cost per Case: $0.09 (25% reduction from scale)
+
+COST SAVINGS FROM BATCH SIZE OPTIMIZATION:
+Current: 1500 cases × $0.12 = $180 per batch
+Target: 2500 cases × $0.09 = $225 per batch
+Total Cases: Same output (15000 cases/month)
+Current Cost: $180 × 10 batches = $1800/month
+Target Cost: $225 × 6 batches = $1350/month
+Monthly Savings: $450
+Annual Savings: $5400
+
+CO-PACKER PERFORMANCE TRACKING:
+
+Premium Co-Packer:
+- On-Time Delivery: 88% (target: >95%)
+- Quality Defect Rate: 4.2% (target: <2%)
+- Communication: Good (responds within 24 hrs)
+- Flexibility: Fair (struggles with short notice changes)
+- Cost: $0.12/case (industry average)
+- Status: ⚠️ PRIMARY but monitoring quality issues
+
+Backup Co-Packer (exploring):
+- On-Time Delivery: TBD (testing in Week 3)
+- Quality Defect Rate: TBD
+- Communication: TBD
+- Flexibility: TBD
+- Cost: $0.10/case (cheaper - promising!)
+- Status: 🟡 TESTING - Week 3 trial run
+
+PRODUCTION RISK MITIGATION:
+1. Dual Co-Packer Strategy: Test backup in Week 3
+2. Component Buffer Stock: Maintain 6-8 weeks supply
+3. Quality Escalation: COO approval for any batch >3% defects
+4. Weekly Production Calls: Every Tuesday 10am with co-packer
+5. Contingency Planning: If primary co-packer fails, activate backup within 7 days

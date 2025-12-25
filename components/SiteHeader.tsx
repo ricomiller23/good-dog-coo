@@ -11,7 +11,7 @@ const NAV_ITEMS = [
     { href: "/operations", label: "Ops & Supply", icon: Truck },
     { href: "/crm", label: "Capital", icon: Users },
     { href: "/team", label: "Team", icon: Shield },
-    { href: "/reports", label: "Reports", icon: FileText },
+    { href: "/resources", label: "Toolkit", icon: FileText },
     { href: "/mission", label: "Impact", icon: Heart },
 ];
 

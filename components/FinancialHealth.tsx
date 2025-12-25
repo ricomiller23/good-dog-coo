@@ -1,6 +1,7 @@
 "use client";
 
 import { motion } from "framer-motion";
+import Link from "next/link";
 import { DollarSign, TrendingDown, TrendingUp, AlertOctagon, Wallet } from "lucide-react";
 import { cn, formatCurrency } from "@/lib/utils";
 
@@ -32,8 +33,8 @@ export default function FinancialHealth() {
 
             <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
                 {/* Cash Runway Card */}
-                <div className="bg-[#0A192F] border border-slate-800 rounded-xl p-5 relative overflow-hidden">
-                    <div className="absolute top-0 right-0 p-4 opacity-5">
+                <Link href="/tools/cash-flow" className="block bg-[#0A192F] border border-slate-800 rounded-xl p-5 relative overflow-hidden group hover:border-amber-500/50 transition-all">
+                    <div className="absolute top-0 right-0 p-4 opacity-5 group-hover:opacity-10 transition-opacity">
                         <DollarSign className="w-24 h-24 text-slate-100" />
                     </div>
                     <div className="relative z-10">
@@ -49,10 +50,10 @@ export default function FinancialHealth() {
                             <span className="text-slate-500">Burn: <span className="text-red-400">-{formatCurrency(metrics.monthlyBurn)}/mo</span></span>
                         </div>
                     </div>
-                </div>
+                </Link>
 
                 {/* COGS Analysis Card */}
-                <div className="md:col-span-2 bg-[#0A192F] border border-slate-800 rounded-xl p-5">
+                <Link href="/tools/unit-economics" className="block md:col-span-2 bg-[#0A192F] border border-slate-800 rounded-xl p-5 hover:border-amber-500/50 transition-all cursor-pointer">
                     <div className="flex justify-between items-start mb-6">
                         <div>
                             <p className="text-sm text-slate-400 font-medium">Unit Economics</p>
@@ -108,7 +109,6 @@ export default function FinancialHealth() {
                             </div>
                         </div>
                     </div>
-                </div>
             </div>
         </div>
     );

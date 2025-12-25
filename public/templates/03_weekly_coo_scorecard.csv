@@ -1,0 +1,48 @@
+Metric,Week 1 Target,Week 1 Actual,Week 2 Target,Week 2 Actual,Week 3 Target,Week 3 Actual,Week 4 Target,Week 4 Actual,Month Target,Status,Owner
+FINANCIAL METRICS,,,,,,,,,,,,
+Weekly Revenue,$35000,$32500,$37000,,$39000,,$41000,,$152000,⚠️,CEO
+Gross Margin %,20%,17.6%,25%,,30%,,35%,,35%,🔴,COO
+Weekly Burn Rate,-$9600,-$11200,-$9000,,-$8400,,-$7800,,-$8400,⚠️,CFO
+Cash Balance,$48000,$46350,$52000,,$58000,,$65000,,$65000,⚠️,CFO
+COGS per Unit,$2.02,$2.15,$1.85,,$1.65,,$1.45,,$1.45,🔴,COO
+Operating Expense Ratio,145%,158%,135%,,120%,,110%,,110%,🔴,COO
+,,,,,,,,,,,,
+OPERATIONAL METRICS,,,,,,,,,,,,
+Units Produced,15000,14200,16000,,17500,,19000,,67500,⚠️,Ops Mgr
+Production Defect Rate,<3%,4.2%,<2.5%,,<2%,,<2%,,<2%,🔴,QC Mgr
+Inventory Days on Hand,45,52,45,,45,,45,,45,⚠️,COO
+Out of Stock Incidents,0,2,0,,0,,0,,0,🔴,Ops Mgr
+Co-Packer On-Time %,>95%,88%,>95%,,>95%,,>95%,,>95%,🔴,COO
+,,,,,,,,,,,,
+DISTRIBUTION METRICS,,,,,,,,,,,,
+Active Distribution Points,2000,1850,2050,,2100,,2150,,2150,⚠️,VP Sales
+Cases Shipped,5200,4800,5500,,6000,,6500,,22000,⚠️,VP Sales
+Cases per Point per Week,2.6,2.59,2.68,,2.86,,3.02,,2.89,🟡,VP Sales
+Distributor Velocity Growth,0%,-3.2%,3%,,5%,,7%,,5%,🔴,VP Sales
+New Doors Opened,50,35,55,,60,,65,,230,⚠️,VP Sales
+Doors Lost/Churned,<10,18,<10,,<10,,<10,,<40,🔴,VP Sales
+,,,,,,,,,,,,
+FUNDRAISING METRICS,,,,,,,,,,,,
+Bridge Loan Progress,25%,20%,50%,,75%,,100%,,100%,⚠️,COO+CEO
+Lender Conversations,5,3,10,,15,,20,,20,⚠️,CEO
+Term Sheets Received,0,0,1,,2,,3,,3,⚠️,CEO
+Series A Data Room %,10%,5%,20%,,35%,,50%,,50%,🔴,CFO
+,,,,,,,,,,,,
+TEAM & SYSTEMS,,,,,,,,,,,,
+Key Hires Completed,0,0,1,,1,,2,,2,🔴,COO
+ERP Implementation %,0%,0%,25%,,50%,,75%,,75%,🔴,COO
+SOPs Documented,2,1,5,,8,,12,,12,🔴,Ops Mgr
+Compliance Issues,0,0,0,,0,,0,,0,🟢,QC Mgr
+
+STATUS KEY:
+🟢 = On Track or Exceeding
+🟡 = Slightly Behind (within 10%)
+⚠️ = Concerning (10-25% behind)
+🔴 = Critical (>25% behind or negative trend)
+
+WEEKLY REVIEW PROCESS:
+1. Monday 9am: Update all actuals from previous week
+2. Monday 10am: COO reviews with each owner
+3. Monday 2pm: COO + CEO review session
+4. Monday 4pm: Corrective action plans for RED items
+5. Friday 3pm: Preview next week targets

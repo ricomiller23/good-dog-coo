@@ -1,0 +1,80 @@
+Distributor Name,Territory,Distribution Points,Cases Shipped (Week),Cases per Point,Velocity Trend,Out of Stock Events,Payment Status,Last Meeting,Priority Actions,Status
+Northeast Beverage,MA/NH/ME,450,1350,3.0,↑ +12%,0,Current,2026-01-05,Celtics partnership activation,🟢 STRONG
+Metro Wine & Spirits,Greater Boston,180,612,3.4,↑ +8%,1,Current,2026-01-03,Bruins game day promotion,🟢 STRONG
+Florida Distributors Inc,Central FL,320,640,2.0,↓ -5%,3,15 days past due,2025-12-20,Urgent: Restock + payment collection,🔴 AT RISK
+Coastal Beverage Group,South FL,280,560,2.0,→ Flat,2,Current,2025-12-15,Schedule QBR + new placement strategy,🟡 NEEDS ATTENTION
+Empire State Drinks,NYC Metro,220,440,2.0,↓ -8%,0,Current,2025-12-28,Competitive pressure - respond,🔴 DECLINING
+Garden State Beverages,NJ,190,494,2.6,↑ +5%,1,Current,2026-01-02,Expand to North NJ,🟢 GROWING
+New England Wholesale,CT/RI,160,352,2.2,→ Flat,0,Current,2025-12-18,Sampling program launch,🟡 STABLE
+Mid-Atlantic Partners,PA/DE,150,300,2.0,↓ -3%,2,Current,2025-12-22,Address out-of-stock issues,🟡 NEEDS ATTENTION
+Sports Venue Direct,Celtics Arena,8,96,12.0,↑ +25%,0,Current,2026-01-04,Expand to Bruins arena,🟢 STAR PERFORMER
+Sports Venue Direct,Bruins Arena,6,60,10.0,NEW,0,Current,2026-01-04,Grand opening promotion,🟢 NEW LAUNCH
+
+TOTALS,All Markets,1964,4904,2.5,↑ +2.3%,9,,-,-,-
+
+VELOCITY ANALYSIS:
+
+TOP PERFORMERS (Cases per Point >3.0):
+1. Sports Venues: 11.0 avg - Partnership delivering!
+2. Metro Wine & Spirits: 3.4 - High-density urban market
+3. Northeast Beverage: 3.0 - Strong brand awareness
+
+BOTTOM PERFORMERS (Cases per Point <2.0):
+1. Florida Distributors: 2.0 + declining - CRISIS
+2. Coastal Beverage: 2.0 + flat - Needs intervention
+3. Empire State Drinks: 2.0 + declining - NYC competitive pressure
+
+AT-RISK DISTRIBUTORS (RED FLAGS):
+🔴 Florida Distributors Inc:
+- Problem: Payment 15 days overdue + declining velocity + 3 out-of-stocks
+- Root Cause: Distributor cash flow issues? Product not moving?
+- Action: Emergency meeting THIS WEEK - consider termination if not resolved
+- Timeline: 7 days to resolve or start replacement search
+
+🔴 Empire State Drinks:
+- Problem: NYC declining velocity -8%
+- Root Cause: High Noon, BuzzBallz, White Claw Spirits competition
+- Action: Competitive analysis + promotional support + merchandising upgrade
+- Timeline: 30 days to reverse trend
+
+VELOCITY IMPROVEMENT INITIATIVES:
+
+Week 1-2: SPORTS PARTNERSHIP ACTIVATION
+- Celtics game day promotions (12 home games remaining)
+- Bruins game day promotions (15 home games remaining)
+- Target: 20% velocity lift in MA market
+- Budget: $5000 sampling + $3000 retail support
+
+Week 3-4: SAMPLING BLITZ (High-Priority Markets)
+- Connecticut/Rhode Island: 4 weekend sampling events
+- Central Florida: 3 Publix sampling events
+- North Jersey: 2 Total Wine sampling events
+- Target: 15% velocity lift in sampled stores
+- Budget: $8000 total
+
+Week 5-6: MERCHANDISING RESET
+- Endcap placement push in top 50 accounts
+- POS materials refresh (shelf talkers, case cards)
+- Cooler decals for sports venues
+- Target: 10% velocity lift from improved visibility
+- Budget: $4000 materials + $2000 distributor incentives
+
+Week 7-8: ACCOUNT RATIONALIZATION
+- Cut bottom 20% of low-velocity accounts (<1 case/week)
+- Reallocate inventory to high-velocity accounts
+- Focus distributor rep attention on winners
+- Target: Overall velocity improvement from 2.5 → 2.8 cases/point
+
+DISTRIBUTOR MEETING SCHEDULE:
+Week of 1/8: Florida Distributors (CRISIS), Empire State (TURNAROUND)
+Week of 1/15: Coastal Beverage (QBR), New England Wholesale (PLANNING)
+Week of 1/22: Mid-Atlantic (PROBLEM-SOLVING), Garden State (EXPANSION)
+Week of 1/29: Northeast Beverage (PARTNERSHIP), Metro Wine (PARTNERSHIP)
+
+KEY METRICS TO TRACK WEEKLY:
+- Total cases shipped
+- Average cases per distribution point
+- Number of out-of-stock events
+- Distributor payment status
+- New doors opened vs lost
+- Velocity trend by market

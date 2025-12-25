@@ -1,0 +1,78 @@
+Phase,Week,Task,Owner,Status,Due Date,Completion Date,Dependencies,Notes,Priority
+PRE-PLANNING,Week -12,Market Research: Wine RTD competitive analysis,Marketing,Not Started,2026-01-15,,None,Analyze Stella Rosa zero-sugar launch,🔴 CRITICAL
+PRE-PLANNING,Week -12,Financial Modeling: Wine line P&L projections,CFO,Not Started,2026-01-15,,None,Model COGS advantage vs spirits,🔴 CRITICAL
+PRE-PLANNING,Week -12,Product Development: Flavor profiles selection,CEO,Not Started,2026-01-20,,Market research,Initial: 3-4 flavors for launch,🔴 CRITICAL
+PRE-PLANNING,Week -11,Co-Packer RFP: Wine production facilities,COO,Not Started,2026-01-22,,None,Target 3-5 qualified co-packers,🔴 CRITICAL
+PRE-PLANNING,Week -11,Legal Review: Wine vs spirits regulatory differences,Legal,Not Started,2026-01-25,,None,Understand compliance requirements,🟡 HIGH
+PRE-PLANNING,Week -10,Supplier Sourcing: Wine base suppliers,COO,Not Started,2026-01-30,,None,Target: $0.18-0.22/unit cost,🔴 CRITICAL
+PRE-PLANNING,Week -10,ShipCompliant Setup: DTC shipping infrastructure,Ops Mgr,Not Started,2026-02-01,,None,Enable 48-state DTC shipping,🟡 HIGH
+PRE-PLANNING,Week -9,Co-Packer Selection: Final vendor chosen,COO,Not Started,2026-02-05,,Co-packer RFP,Contract negotiation begins,🔴 CRITICAL
+PRE-PLANNING,Week -9,Formula Development: Recipe finalization,CEO,Not Started,2026-02-08,,Flavor profiles,Lock down ABV and sugar content,🔴 CRITICAL
+FORMULATION,Week -8,TTB Formula Approval: Submit COLA application,QC Mgr,Not Started,2026-02-12,,Recipe finalized,Wine = 2-7 day approval,🔴 CRITICAL
+FORMULATION,Week -8,Packaging Design: Wine line labels and cans,Marketing,Not Started,2026-02-15,,Formula dev,Distinct from spirits line branding,🟡 HIGH
+FORMULATION,Week -7,Taste Testing: Internal panel + focus groups,CEO,Not Started,2026-02-19,,Formula dev,Blind taste vs Stella Rosa,🟡 HIGH
+FORMULATION,Week -7,Pricing Strategy: Wholesale and retail pricing,CFO,Not Started,2026-02-22,,Cost model,Target: $18.99-21.99 12-pack retail,🟡 HIGH
+FORMULATION,Week -6,TTB COLA Approval: Received,QC Mgr,Not Started,2026-02-26,,TTB submission,Should be quick for wine,🔴 CRITICAL
+FORMULATION,Week -6,Component Procurement: Order wine cans and materials,COO,Not Started,2026-02-28,,COLA approval,Long lead time on cans,🔴 CRITICAL
+PRODUCTION TRIAL,Week -5,Co-Packer Contract: Final agreement signed,COO,Not Started,2026-03-05,,Co-packer selection,Lock in pricing and terms,🔴 CRITICAL
+PRODUCTION TRIAL,Week -5,Trial Production Run: 500 cases test batch,COO,Not Started,2026-03-08,,Contract signed,Quality validation,🔴 CRITICAL
+PRODUCTION TRIAL,Week -4,Quality Control Testing: Lab analysis,QC Mgr,Not Started,2026-03-12,,Trial production,ABV verification + micro testing,🔴 CRITICAL
+PRODUCTION TRIAL,Week -4,Trial Run Evaluation: GO/NO-GO decision,COO,Not Started,2026-03-15,,QC testing,Approve for full production,🔴 CRITICAL
+PRODUCTION TRIAL,Week -3,First Production Run: 2000 cases,COO,Not Started,2026-03-22,,GO decision,Launch inventory build,🔴 CRITICAL
+PRODUCTION TRIAL,Week -3,State Registrations: Priority states for DTC,Legal,Not Started,2026-03-25,,None,Start with CA FL TX NY IL,🟡 HIGH
+DISTRIBUTION PREP,Week -2,Distributor Training: Wine line education,VP Sales,Not Started,2026-03-29,,Production complete,Product positioning + benefits,🟡 HIGH
+DISTRIBUTION PREP,Week -2,Sales Materials: One-pagers and pitch decks,Marketing,Not Started,2026-04-01,,None,Multi-category advantage story,🟡 HIGH
+DISTRIBUTION PREP,Week -2,DTC Website Launch: E-commerce for wine line,Marketing,Not Started,2026-04-05,,ShipCompliant setup,Wine can ship to 48 states,🟡 HIGH
+DISTRIBUTION PREP,Week -1,Retail Partner Commitments: Confirm launch orders,VP Sales,Not Started,2026-04-08,,Distributor training,Minimum 500 points Day 1,🔴 CRITICAL
+DISTRIBUTION PREP,Week -1,Inventory Positioning: Stock at distributors,Ops Mgr,Not Started,2026-04-10,,Production,Pre-position for launch,🔴 CRITICAL
+DISTRIBUTION PREP,Week -1,Marketing Campaign: Social media + PR launch,Marketing,Not Started,2026-04-12,,None,Build launch momentum,🟡 HIGH
+LAUNCH,Week 0,OFFICIAL LAUNCH DATE,All,Not Started,2026-04-15,,All above,Wine line goes live!,🔴 CRITICAL
+LAUNCH,Week 0,Launch Event: Media and distributor event,Marketing,Not Started,2026-04-15,,Launch,Press coverage + sampling,🟢 MEDIUM
+LAUNCH,Week 0,Sales Tracking: Daily velocity monitoring,VP Sales,Not Started,2026-04-15,,Launch,Real-time performance data,🔴 CRITICAL
+POST-LAUNCH,Week 1,Performance Review: Week 1 velocity analysis,COO,Not Started,2026-04-22,,Launch,Compare to targets,🔴 CRITICAL
+POST-LAUNCH,Week 1,Customer Feedback: Survey + social listening,Marketing,Not Started,2026-04-22,,Launch,Rapid iteration if needed,🟡 HIGH
+POST-LAUNCH,Week 2,Production Ramp: Scale to steady state,COO,Not Started,2026-04-29,,Week 1 review,Adjust based on demand,🔴 CRITICAL
+POST-LAUNCH,Week 2,Distribution Expansion: Add new accounts,VP Sales,Not Started,2026-04-29,,Performance review,Expand successful markets,🟡 HIGH
+POST-LAUNCH,Week 4,Financial Review: Wine line profitability,CFO,Not Started,2026-05-13,,4 weeks data,Actual vs projected margins,🔴 CRITICAL
+POST-LAUNCH,Week 4,Strategic Assessment: GO/NO-GO on expansion,CEO,Not Started,2026-05-13,,Financial review,Decide on additional flavors,🟡 HIGH
+POST-LAUNCH,Week 8,Scale-Up Plan: National distribution strategy,VP Sales,Not Started,2026-06-10,,8 weeks data,Leverage proven success,🟡 HIGH
+
+CRITICAL PATH SUMMARY:
+Week -12 to -9: Planning and co-packer selection (4 weeks)
+Week -8 to -6: Formula development and TTB approval (3 weeks)
+Week -5 to -3: Production trial and first run (3 weeks)
+Week -2 to 0: Distribution prep and launch (2 weeks)
+Week 0+: Post-launch optimization (ongoing)
+
+TOTAL TIMELINE: 12 weeks from start to launch
+
+KEY SUCCESS METRICS:
+Week 1: 500+ distribution points | 1000+ cases shipped
+Week 4: 1000+ distribution points | 2.5+ cases/point velocity
+Week 8: 1500+ distribution points | Gross margin 50%+
+Week 12: Wine line = 25% of total revenue
+
+BUDGET ESTIMATE:
+Co-packer setup: $5000
+Initial inventory (5000 cases): $30000
+DTC infrastructure: $3000
+Marketing launch: $10000
+State registrations: $2000
+Contingency: $5000
+TOTAL: $55000
+
+RISK MITIGATION:
+Risk: Wine line cannibalizes spirits line
+Mitigation: Different packaging design + price points + marketing
+
+Risk: TTB approval delayed
+Mitigation: Submit early (Week -8) + have backup formulas
+
+Risk: Co-packer capacity issues
+Mitigation: Backup co-packer relationship + flexible timeline
+
+Risk: Lower-than-expected demand
+Mitigation: Conservative initial production + rapid iteration
+
+Risk: DTC shipping compliance issues
+Mitigation: ShipCompliant setup + legal review + state-by-state verification

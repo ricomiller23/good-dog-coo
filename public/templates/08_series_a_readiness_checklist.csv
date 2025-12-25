@@ -1,0 +1,73 @@
+Category,Item,Status,Completion %,Owner,Target Date,Actual Date,Notes,Investor Importance
+FINANCIAL DOCUMENTATION,3 Years Audited Financials,In Progress,60%,CFO,2026-02-15,,2023-2024 complete; 2025 in audit,🔴 CRITICAL
+FINANCIAL DOCUMENTATION,Monthly P&L by SKU (12 months),Not Started,0%,CFO,2026-02-01,,Need to implement SKU-level tracking,🔴 CRITICAL
+FINANCIAL DOCUMENTATION,13-Week Rolling Cash Flow,Complete,100%,CFO,2026-01-15,2026-01-10,Updated weekly - investor ready,🔴 CRITICAL
+FINANCIAL DOCUMENTATION,5-Year Financial Projections,Draft,70%,CFO,2026-02-20,,Base/Conservative/Aggressive scenarios,🔴 CRITICAL
+FINANCIAL DOCUMENTATION,Cap Table (Clean),Complete,100%,Legal,2026-01-05,2026-01-03,All founder shares issued correctly,🔴 CRITICAL
+FINANCIAL DOCUMENTATION,Use of Proceeds Detail,Draft,50%,COO,2026-02-15,,Need to refine allocation by quarter,🟡 HIGH
+FINANCIAL DOCUMENTATION,Unit Economics Model,Complete,100%,COO,2026-01-20,2026-01-12,SKU-level profitability analysis,🔴 CRITICAL
+FINANCIAL DOCUMENTATION,Customer LTV/CAC Analysis,Not Started,0%,VP Sales,2026-02-28,,Need 6 months data for cohort analysis,🟡 HIGH
+,,,,,,,,
+OPERATIONAL METRICS,Distribution Point Tracking,In Progress,75%,VP Sales,2026-01-31,,2000 current; target 2500 by Series A,🔴 CRITICAL
+OPERATIONAL METRICS,Velocity by Distributor,Complete,100%,VP Sales,2026-01-15,2026-01-08,Weekly tracking system operational,🟡 HIGH
+OPERATIONAL METRICS,Gross Margin Trend (12 months),In Progress,50%,CFO,2026-02-28,,Need 6 more months of clean data,🔴 CRITICAL
+OPERATIONAL METRICS,EBITDA Breakeven Proof,Not Started,0%,CFO,2026-04-30,,Target Q2 2026 for first positive month,🔴 CRITICAL
+OPERATIONAL METRICS,Customer Retention/Repeat Rate,In Progress,40%,VP Sales,2026-03-15,,Setting up tracking system,🟡 HIGH
+OPERATIONAL METRICS,Inventory Turns (Annual),Complete,100%,COO,2026-01-20,2026-01-15,Currently 6x; target 8x by Series A,🟢 MEDIUM
+OPERATIONAL METRICS,Quality Control Metrics,Complete,100%,QC Mgr,2026-01-10,2026-01-05,Defect rate trending to <2%,🟢 MEDIUM
+,,,,,,,,
+LEGAL & COMPLIANCE,Corporate Formation Docs,Complete,100%,Legal,2025-12-01,2025-11-15,LLC operating agreement clean,🟢 MEDIUM
+LEGAL & COMPLIANCE,Founder Vesting Agreements,Complete,100%,Legal,2025-12-15,2025-12-10,4-year vest with 1-year cliff,🔴 CRITICAL
+LEGAL & COMPLIANCE,Employee Stock Option Plan,Not Started,0%,Legal,2026-03-31,,Need to establish before Series A,🟡 HIGH
+LEGAL & COMPLIANCE,IP Protection (Trademarks),In Progress,80%,Legal,2026-02-01,,Good Dogg® registered; 2 flavors pending,🟡 HIGH
+LEGAL & COMPLIANCE,Material Contracts,In Progress,60%,Legal,2026-02-28,,Co-packer + distributor agreements,🟡 HIGH
+LEGAL & COMPLIANCE,TTB Permits & Compliance,Complete,100%,QC Mgr,Ongoing,Ongoing,All current and up to date,🔴 CRITICAL
+LEGAL & COMPLIANCE,State Registrations (All States),In Progress,70%,QC Mgr,2026-03-15,,18 states complete; 12 in progress,🟡 HIGH
+LEGAL & COMPLIANCE,Insurance Policies,Complete,100%,CFO,Ongoing,Ongoing,General liability + product liability,🟢 MEDIUM
+,,,,,,,,
+MARKET & TRACTION,Customer Testimonials/Case Studies,Not Started,0%,Marketing,2026-03-01,,Need 5-10 strong customer stories,🟢 MEDIUM
+MARKET & TRACTION,Press Coverage Archive,In Progress,30%,Marketing,2026-02-15,,Some local press; need national,🟢 MEDIUM
+MARKET & TRACTION,Competitive Analysis,Complete,100%,CEO,2026-01-05,2026-01-03,High Noon/BuzzBallz/Cutwater analysis,🟡 HIGH
+MARKET & TRACTION,Market Size Validation,Complete,100%,CEO,2026-01-10,2026-01-05,$13.4B RTD market data validated,🟡 HIGH
+MARKET & TRACTION,Sports Partnership Documentation,Complete,100%,CEO,2026-01-03,2025-12-28,Celtics + Bruins agreements signed,🔴 CRITICAL
+MARKET & TRACTION,Social Media Metrics,In Progress,50%,Marketing,2026-02-01,,Need consistent tracking + growth,🟢 MEDIUM
+MARKET & TRACTION,Email/SMS Subscriber Growth,Not Started,0%,Marketing,2026-03-01,,DTC channel for wine line,🟢 MEDIUM
+,,,,,,,,
+TEAM & ORGANIZATION,Org Chart (Current + Future),Draft,60%,COO,2026-02-01,,Current 3 people; plan to 10+ people,🟡 HIGH
+TEAM & ORGANIZATION,Key Hire Pipeline,In Progress,40%,COO,2026-02-28,,CFO search active; Ops Mgr next,🟡 HIGH
+TEAM & ORGANIZATION,Advisory Board,Not Started,0%,CEO,2026-03-15,,Need 2-3 beverage industry advisors,🟢 MEDIUM
+TEAM & ORGANIZATION,Employee Handbook,Not Started,0%,COO,2026-04-30,,Required once >5 employees,🟢 LOW
+TEAM & ORGANIZATION,Compensation Benchmarking,Not Started,0%,CFO,2026-03-31,,Need market data for key hires,🟢 MEDIUM
+,,,,,,,,
+INVESTOR MATERIALS,Pitch Deck (Series A version),Draft,65%,CEO,2026-02-15,,Bridge deck needs update for Series A,🔴 CRITICAL
+INVESTOR MATERIALS,Executive Summary (2-pager),Draft,50%,CEO,2026-02-10,,Needs metrics update,🔴 CRITICAL
+INVESTOR MATERIALS,Data Room (Organized),In Progress,35%,CFO,2026-03-01,,DocSend folder structure created,🔴 CRITICAL
+INVESTOR MATERIALS,Video Pitch (3 min),Not Started,0%,Marketing,2026-03-15,,Nice-to-have for warm intros,🟢 LOW
+INVESTOR MATERIALS,Financial Model (Excel),Draft,70%,CFO,2026-02-20,,3-statement model with scenarios,🔴 CRITICAL
+INVESTOR MATERIALS,Investor FAQ Document,Not Started,0%,CEO,2026-02-28,,Anticipate tough questions,🟡 HIGH
+INVESTOR MATERIALS,Term Sheet Template,Not Started,0%,Legal,2026-03-15,,Know what terms you want,🟡 HIGH
+,,,,,,,,
+PRODUCT & INNOVATION,Wine Line Launch Plan,In Progress,45%,COO,2026-04-01,,Q2 launch critical for multi-category story,🔴 CRITICAL
+PRODUCT & INNOVATION,Product Roadmap (12 months),Draft,50%,COO,2026-02-15,,New flavors + wine line expansion,🟡 HIGH
+PRODUCT & INNOVATION,R&D Pipeline,Not Started,0%,COO,2026-03-01,,Future innovation showcase,🟢 MEDIUM
+
+OVERALL SERIES A READINESS: 48% Complete
+TARGET COMPLETION: 80%+ by March 31, 2026
+SERIES A LAUNCH: April-May 2026
+
+CRITICAL PATH ITEMS (Must Complete First):
+1. 🔴 EBITDA Breakeven Proof (Q2 2026) - HIGHEST PRIORITY
+2. 🔴 3 Years Audited Financials (Feb 15)
+3. 🔴 Gross Margin >50% Sustained (Feb 28)
+4. 🔴 Distribution >2500 Points (Mar 15)
+5. 🔴 Data Room 100% Complete (Mar 1)
+
+WEEKLY REVIEW SCHEDULE:
+Every Monday 3pm: COO + CFO + CEO review progress
+Every Friday 4pm: Update completion % and adjust priorities
+Monthly: Full team review of investor readiness
+
+INVESTOR IMPORTANCE KEY:
+🔴 CRITICAL = Deal-breaker if missing
+🟡 HIGH = Significantly impacts valuation
+🟢 MEDIUM/LOW = Nice-to-have but not essential

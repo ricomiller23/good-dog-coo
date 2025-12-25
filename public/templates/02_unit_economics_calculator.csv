@@ -1,0 +1,32 @@
+SKU Name,Retail Price,Wholesale Price,Units Sold (Month),Revenue,COGS Breakdown,,,,,Total COGS,Gross Profit,Gross Margin %,Target Margin %,Variance
+,,,,,Base Alcohol,Cans,Flavoring,Co-Packing,Packaging/Labels,,,,,
+Cucumber Lime 12oz,$4.00,$2.40,5000,$12000,$0.30,$0.12,$0.10,$0.12,$0.05,$0.69,$8550,$3450,28.8%,50%,-21.2%
+Lemon Elderflower 12oz,$4.00,$2.40,4200,$10080,$0.32,$0.12,$0.12,$0.12,$0.05,$0.73,$9198,$882,8.8%,50%,-41.2%
+Ginger Orange 12oz,$4.00,$2.40,3800,$9120,$0.28,$0.12,$0.09,$0.12,$0.05,$0.66,$7524,$1596,17.5%,50%,-32.5%
+Bourbon Cherry 12oz,$4.50,$2.70,2500,$6750,$0.38,$0.12,$0.10,$0.15,$0.05,$0.80,$6000,$750,11.1%,50%,-38.9%
+
+TOTAL,,,15500,$37950,,,,,,$1.75,$31272,$6678,17.6%,50%,-32.4%
+
+CURRENT STATE ANALYSIS:
+Average COGS per Unit: $2.02
+Average Wholesale Price: $2.45
+Current Gross Margin: 17.6%
+Monthly Gross Profit: $6678
+
+TARGET STATE (90 Days):
+Target COGS per Unit: $1.20
+Target Wholesale Price: $2.40
+Target Gross Margin: 50%
+Target Monthly Gross Profit: $18975
+
+COST REDUCTION PRIORITIES:
+1. Base Alcohol: Negotiate bulk pricing (target 20% reduction)
+2. Aluminum Cans: Alternative sourcing/brite cans (target 15% reduction)
+3. Co-Packing: Batch size optimization (target 25% reduction)
+4. Flavoring: Reformulation or volume discount (target 15% reduction)
+
+ACTION ITEMS:
+- SKU #2 (Lemon Elderflower): HIGHEST PRIORITY - 8.8% margin unsustainable
+- SKU #4 (Bourbon Cherry): Consider price increase to $5.00 retail
+- SKU #1 (Cucumber Lime): Best performer - focus growth here
+- Overall: Must achieve 35% margin within 60 days to survive
